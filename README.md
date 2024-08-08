@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from China.</h3>
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=u1in&label=Visited&color=0e75b6&style=flat" alt="u1in" />
+<img src="https://komarev.com/ghpvc/?username=u1in&label=Visits&color=0e75b6&style=flat" alt="u1in" />
 <img src="https://img.shields.io/badge/HTML-e44c25" alt="HTML" />
 <img src="https://img.shields.io/badge/CSS-2a61f0" alt="CSS" />
 <img src="https://img.shields.io/badge/Javascript-fedc23" alt="Javascript" />
@@ -39,6 +39,6 @@
 - [ ] Nestjs
 - [ ] K8s
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=u1in&show_icons=true&locale=en" alt="u1in" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=u1in&show_icons=true&locale=en" alt="u1in" /></p> -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=u1in&show_icons=true&locale=en&layout=compact" alt="u1in" /></p>
