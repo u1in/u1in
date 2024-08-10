@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm u1in</h1>
-<h3 align="center">A passionate frontend developer from China.</h3>
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=u1in&label=Visits&color=0e75b6&style=flat" alt="u1in" />
 <img src="https://img.shields.io/badge/HTML-e44c25" alt="HTML" />
 <img src="https://img.shields.io/badge/CSS-2a61f0" alt="CSS" />
 <img src="https://img.shields.io/badge/Javascript-fedc23" alt="Javascript" />
@@ -32,7 +30,6 @@
 <h3>Learning Tasks:</h3>
 
 - [ ] **React Source**
-- [ ] Vue Source
 - [ ] Webpack Plugin
 - [ ] Vite Plugin
 - [ ] AST Tree
