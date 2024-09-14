@@ -19,9 +19,11 @@
 <img src="https://img.shields.io/badge/Linux-fdbe00" alt="Linux" />
 </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Linear Algebra**
 
-- 💬 Ask me about **React**
+- 📍 I’m finding  a **Language Partner** who can teach me **English**
+
+- 💬 Ask me about **React** or **Chinese Stuff**
 
 - 📫 How to reach me **u1in@qq.com**
 
@@ -29,12 +31,13 @@
 
 <h3>Learning Tasks:</h3>
 
-- [ ] **React Source**
+- [x] Linear Algebra
+- [ ] Analytic geometry
+- [ ] Threejs
+- [ ] CET4
+- [ ] Vue3
+- [ ] React Source
 - [ ] Webpack Plugin
-- [ ] Vite Plugin
-- [ ] AST Tree
-- [ ] Nestjs
-- [ ] K8s
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=u1in&show_icons=true&locale=en" alt="u1in" /></p> -->
 
