@@ -27,10 +27,6 @@
 
 - ⚡ Fun fact **I think I am funny.**
 
-<h3>Learning Tasks:</h3>
-
-- [ ] Rust
-
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=u1in&show_icons=true&locale=en" alt="u1in" /></p> -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=u1in&show_icons=true&locale=en&layout=compact" alt="u1in" /></p>
