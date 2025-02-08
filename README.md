@@ -31,13 +31,7 @@
 
 <h3>Learning Tasks:</h3>
 
-- [x] Linear Algebra
-- [ ] Analytic geometry
-- [ ] Threejs
-- [ ] CET4
-- [ ] Vue3
-- [ ] React Source
-- [ ] Webpack Plugin
+- [ ] Rust
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=u1in&show_icons=true&locale=en" alt="u1in" /></p> -->
 
