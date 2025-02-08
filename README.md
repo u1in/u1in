@@ -19,9 +19,7 @@
 <img src="https://img.shields.io/badge/Linux-fdbe00" alt="Linux" />
 </p>
 
-- 🌱 I’m currently learning **Linear Algebra**
-
-- 📍 I’m finding  a **Language Partner** who can teach me **English**
+- 🌱 I’m currently learning **Rust**
 
 - 💬 Ask me about **React** or **Chinese Stuff**
 
